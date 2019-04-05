@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <Description about="urn:mozilla:install-manifest">
+        <em:id>aboutrobots@ascrod</em:id>
+        <em:type>2</em:type>
+        <em:name>About Robots</em:name>
+        <em:version>1.0.0</em:version>
+        <em:creator>Ascrod</em:creator>
+        <em:homepageURL>https://github.com/ascrod/aboutrobots</em:homepageURL>
+        <em:iconURL>chrome://aboutrobots/content/aboutRobots-icon.png</em:iconURL>
+        <em:description>I, for one, welcome our new robot overlords.</em:description>
+        <em:targetApplication>
+            <Description>
+                <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
+                <em:minVersion>28.5.0a1</em:minVersion>
+                <em:maxVersion>28.*</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+    </Description>
+</RDF>

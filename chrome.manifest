@@ -1,0 +1,9 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+content         aboutrobots                     content/
+skin            aboutrobots     classic/1.0     skin/
+locale          aboutrobots     en-US           locale/en-US/
+component       {eac2da38-3e1e-449a-b93c-0d59b0db172b}                  components/AboutRobots.js
+contract        @mozilla.org/network/protocol/about;1?what=robots       {eac2da38-3e1e-449a-b93c-0d59b0db172b}
