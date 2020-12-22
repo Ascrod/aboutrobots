@@ -10,7 +10,7 @@
         <em:name>About Robots</em:name>
         <em:version>1.0.0</em:version>
         <em:creator>Ascrod</em:creator>
-        <em:homepageURL>https://github.com/ascrod/aboutrobots</em:homepageURL>
+        <em:homepageURL>https://repo.palemoon.org/ascrod/aboutrobots</em:homepageURL>
         <em:iconURL>chrome://aboutrobots/content/aboutRobots-icon.png</em:iconURL>
         <em:description>I, for one, welcome our new robot overlords.</em:description>
         <!-- Pale Moon -->
