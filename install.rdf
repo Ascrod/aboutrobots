@@ -8,7 +8,7 @@
         <em:id>aboutrobots@ascrod</em:id>
         <em:type>2</em:type>
         <em:name>About Robots</em:name>
-        <em:version>1.0.0</em:version>
+        <em:version>1.0.1</em:version>
         <em:creator>Ascrod</em:creator>
         <em:homepageURL>https://repo.palemoon.org/ascrod/aboutrobots</em:homepageURL>
         <em:iconURL>chrome://aboutrobots/content/aboutRobots-icon.png</em:iconURL>
