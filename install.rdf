@@ -8,7 +8,7 @@
         <em:id>aboutrobots@ascrod</em:id>
         <em:type>2</em:type>
         <em:name>About Robots</em:name>
-        <em:version>1.0.1</em:version>
+        <em:version>1.0.2</em:version>
         <em:creator>Ascrod</em:creator>
         <em:homepageURL>https://repo.palemoon.org/ascrod/aboutrobots</em:homepageURL>
         <em:iconURL>chrome://aboutrobots/content/aboutRobots-icon.png</em:iconURL>
@@ -18,7 +18,7 @@
             <Description>
                 <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
                 <em:minVersion>28.5.0a1</em:minVersion>
-                <em:maxVersion>28.*</em:maxVersion>
+                <em:maxVersion>29.*</em:maxVersion>
             </Description>
         </em:targetApplication>
         <!-- Basilisk -->
@@ -28,6 +28,14 @@
                 <em:minVersion>52.9</em:minVersion>
                 <em:maxVersion>52.*</em:maxVersion>
                 <em:basilisk>true</em:basilisk>
+            </Description>
+        </em:targetApplication>
+        <!-- Borealis Navigator -->
+        <em:targetApplication>
+            <Description>
+                <em:id>{a3210b97-8e8a-4737-9aa0-aa0e607640b9}</em:id>
+                <em:minVersion>0.9.7766a1</em:minVersion>
+                <em:maxVersion>0.9.*</em:maxVersion>
             </Description>
         </em:targetApplication>
     </Description>
